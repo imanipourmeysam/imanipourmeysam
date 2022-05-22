@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imanipourmeysam
 - 👀 I’m interested in programing, robotic, vision, visualization, 3D geometry, graphical application, machine learning, and so on.
-- 🌱 I’m currently learning different topics in parallel such as machine learning, vision and augmented reality.
+- 🌱 I’m currently learning different topics such as machine learning, vision and augmented reality by doing projects.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
